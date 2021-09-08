@@ -22,4 +22,3 @@ app.listen(process.env.PORT||3000, function(){
     console.log("Server started at port 3000");
 });
 
-// var apiKey = "7086d00b856a9d5b3c9f11af5f3c4eb0-us5"
